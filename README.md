@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+# MeTube- A ReactJS WebApp
+a dummy youtube app on top of ReactJS covering basic concepts around ReactJS.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+# Application Screenshots  
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+**Main Application**  
+![Alt text](./screenshots/landing_page.png?raw=true "Home Page")  
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+**Search**  
+![Alt text](./screenshots/search.png?raw=true "Home Page") 
